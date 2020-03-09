@@ -1,0 +1,28 @@
+#movies img, #movie img{
+    width: 100%;
+}
+
+@media(min-width: 960px){
+#movies .col-md-3 .well{
+    height: 450px;
+}}
+
+#movies .col-md-3 img{
+    height: 400px;
+}
+
+#movieBox{
+    margin-bottom: 50px;
+}
+
+.movie-footer{
+    margin-bottom: 10px;
+}
+
+.btn{
+    margin-right: 10px;
+}
+
+div.jumbotron{
+    margin-top: 40px;
+}
